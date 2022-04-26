@@ -2,6 +2,7 @@
 
 - 🔭 Estou mudando de carreira e no início da minha jornada como Dev! 🚀🚀
 - 🌱 No momento estou me especializando em NextJS com Typescript, MongoDB e NodeJS
+- ⚡ Curiosidades sobre mim: Sou um grande fã da franquia Legend of Zelda <img  height="30" width="40" alt='Triforce' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1038px-Triforce.svg.png?20210807091227'>
 
 <div align="center">
   <a href="https://github.com/rafazeero">
