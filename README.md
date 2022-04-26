@@ -32,7 +32,7 @@
   <div> 
     <a href="https://instagram.com/rafa8d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafael99ldm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href='' target='_blank'><img src='https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white' target='_blank'></a>
+    <a href='https://steamcommunity.com/id/Rafa8DZeero/' target='_blank'><img src='https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white' target='_blank'></a>
   </div> 
 
 <!--
