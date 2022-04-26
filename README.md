@@ -6,13 +6,14 @@
 - Sou um grande fã da franquia Legend of Zelda <img  height="15" width="20" alt='Triforce' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1038px-Triforce.svg.png?20210807091227'>
 - Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
 - Gamer nas horas vagas 🎮
+- Já criei algumas coisas no blender <img  height="15" width="20" alt='Triforce' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg'>
 
 <div align="center">
   <a href="https://github.com/rafazeero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafazeero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafazeero&layout=compact&langs_count=7&theme=react"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block"  align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,6 +32,7 @@
   <div> 
     <a href="https://instagram.com/rafa8d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rafael99ldm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href='' target='_blank'><img src='https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white' target='_blank'></a>
   </div> 
 
 <!--
