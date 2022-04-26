@@ -1,5 +1,8 @@
 ### Fala dev, eu sou Rafael Lima e bem vindo ao meu Github👋
 
+- 🔭 Estou mudando de carreira e no início da minha jornada como Dev! 🚀🚀
+- 🌱 No momento estou me especializando em NextJS com Typescript, MongoDB e NodeJS
+
 <div align="center">
   <a href="https://github.com/rafazeero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafazeero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -14,6 +17,9 @@
   <img align="center" alt="Rafa-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Rafa-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Rafa-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    
 </div>
   
   ##
