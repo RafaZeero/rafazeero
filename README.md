@@ -1,5 +1,13 @@
-### Fala dev, eu sou Rafael Lima e bem vindo ao meu Github👋
+<h1 style="text-align: center;"> 
+ Fala dev, eu sou Rafael Lima e bem vindo ao meu Github👋
+</h1>
 
+  <div style="display: inline-block"  align="center"><br>
+    <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt"Imagem laptop com legenda: developer" >
+  
+  <br><br>
+  </div>
+  
 - 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
 - 🌱 No momento estou me especializando em NextJS com Typescript, NodeJS, Firebase e Tailwind ✏️💻
 - ⚡ Curiosidades sobre mim: 
@@ -7,6 +15,7 @@
 - Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
 - Gamer nas horas vagas 🎮
 - Já criei algumas coisas no blender <img  height="15" width="20" alt='Triforce' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg'>
+<br>
 
 <div align="center">
   <a href="https://github.com/rafazeero">
