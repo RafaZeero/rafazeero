@@ -11,10 +11,10 @@
 - 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀
 - 🌱 No momento estou me especializando em NextJS com Typescript, NodeJS, Firebase e Tailwind ✏️💻
 - ⚡ Curiosidades sobre mim: 
-- Sou um grande fã da franquia Legend of Zelda <img  height="15" width="20" alt='Triforce' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1038px-Triforce.svg.png?20210807091227'>
-- Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
-- Gamer nas horas vagas 🎮
-- Já criei algumas coisas no blender <img  height="15" width="20" alt='Triforce' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg'>
+1. Sou um grande fã da franquia Legend of Zelda <img  height="15" width="20" alt='Triforce' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Triforce.svg/1038px-Triforce.svg.png?20210807091227'>
+2. Adoro assistir animes <img height='15' width='20' alt='pokemon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/768px-Pok%C3%A9_Ball_icon.svg.png' >
+3. Gamer nas horas vagas 🎮
+4. Já criei algumas coisas no blender <img  height="15" width="20" alt='Triforce' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg'>
 <br>
 
 <div align="center">
