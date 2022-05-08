@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> 
- Fala dev, eu sou Rafael Lima e bem vindo ao meu Github👋
+ Fala dev, eu sou Rafael Lima e seja bem vindo(a) ao meu Github👋
 </h1>
 
   <div style="display: inline-block"  align="center"><br>
