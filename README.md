@@ -19,8 +19,10 @@
 
 <div align="center">
   <a href="https://github.com/rafazeero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafazeero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafazeero&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-lyart-tau.vercel.app
+/api?username=rafazeero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lyart-tau.vercel.app
+/api/top-langs/?username=rafazeero&layout=compact&langs_count=7&theme=react"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=rafazeero&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   
 </div>
