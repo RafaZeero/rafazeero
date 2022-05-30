@@ -3,7 +3,7 @@
 </h1>
 
   <div style="display: inline-block"  align="center"><br>
-    <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt"Imagem laptop com legenda: developer" >
+    <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt="Imagem laptop com legenda: developer" >
   
   <br><br>
   </div>
