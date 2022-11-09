@@ -1,6 +1,6 @@
-<h1 style="text-align: center;"> 
- Fala dev, eu sou Rafael Lima e seja bem vindo(a) ao meu Github👋
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;Fala+dev,+eu+sou+Rafael+Lima!;Seja+bem+vindo(a)+ao+meu+Github!;Zelda+Lover+hehe&font=Fira%20Code&weight=600&size=32&center=true&color=0FB123&width=635&height=150&duration=4000&pause=1000">
+</p>
 
   <div style="display: inline-block"  align="center"><br>
     <img height="250em" src="https://i.redd.it/ijv2satyv5651.png" align="center" alt="Imagem laptop com legenda: developer" >
