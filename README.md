@@ -19,11 +19,11 @@
 
 <div align="center">
   <a href="https://github.com/rafazeero">
-  <img height="180em" src="https://github-readme-stats-rafazeero.vercel.app/api?username=rafazeero&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=rafazeero&layout=compact&langs_count=7&theme=react"/>
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=rafazeero&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
-  
+  <img height="180em" src="https://github-readme-stats-rafazeero.vercel.app/api?username=rafazeero&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&icon_color=EB5454&title_color=EBD3C0&text_color=DAE7EB&bg_color=141B18"/>
+  <img height="180em" src="https://github-readme-stats-rafazeero.vercel.app/api/top-langs/?username=rafazeero&layout=compact&langs_count=10&theme=blueberry&icon_color=EB5454&text_color=EBD3C0&title_color=DAE7EB&bg_color=141B18"/>
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=rafazeero&theme=blueberry&fire=EB5454&ring=EBD3C0&sideNums=DAE7EB&background=141B18' />
 </div>
+ 
   <div style="display: inline-block"  align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
